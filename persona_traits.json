@@ -78,7 +78,7 @@
   "Family": ["nuclear family", "single parent", "extended family", "childless", "widow", "single", "happy marriage", "unhappy marriage", "divorced"],
   "Key Life Experience": ["traumatic", "non-traumatic", "successful", "unsuccessful"],
   "Education": ["none", "primary school", "secondary school", "college/university", "graduate school", "trade/craft/specialty"],
-  "Employment": ["unemployed", "employed", "retired", "gig or part time", "homemaker", "underemployed"],
+  "Employment": ["unemployed", "employed", "retired", "gig", "part time", "homemaker", "underemployed"],
   "Formative Experience": ["positive", "negative", "neutral"],
   "Emotional Disposition": ["happy", "sad", "angry", "calm", "anxious"],
   "Intellect": ["intelligent", "average", "below average"],
@@ -133,10 +133,13 @@
     "Unitarian Universalism",
     "Rastafari",
     "Scientology",
+    "Satanism",
     "Other"
   ],
   "Aspirations": ["career-oriented", "family-oriented", "wealth-oriented", "intellectually-oriented", "artistically-oriented"],
   "Important Issues": ["social", "political", "environmental", "personal", "none"],
-  "Orientation": ["heterosexual", "homosexual", "bisexual", "transgender", "cisgender"],
-  "Tolerance": ["radically intolerant", "moderatly intolerant", "moderately tolerant", "radically inclusive"]
+  "Sex Assigned at Birth": ["male","female","intersex","other"],
+  "Gender": ["transgender", "cisgender"],
+  "Sexual Orientation": ["heterosexual", "homosexual", "bisexual", "asexual", "other" ],
+  "Tolerance": ["radically intolerant", "moderately intolerant", "moderately tolerant", "radically inclusive"]
 }
